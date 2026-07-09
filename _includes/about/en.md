@@ -1,6 +1,7 @@
 Hey, I am Taco, I am a student of [NPTU](https://mis.nptu.edu.tw/), I think I am NOP in x86 machine.
 
 ## Experiment
+
 -  黑客松 第三名
 -  書卷獎
 -  APCS 觀念 4 實作 2
@@ -12,6 +13,3 @@ Hey, I am Taco, I am a student of [NPTU](https://mis.nptu.edu.tw/), I think I am
 -  商品創意解說競賽 第一名
 -  大專生計畫
 -  化學助教
--  小教輔導英文
--  金盾未知(爆炸)
-
