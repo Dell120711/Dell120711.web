@@ -9,8 +9,8 @@ Hey，現在是一名[屏大](https://mis.nptu.edu.tw/)的學生，
 -  黑客松 第三名
 -  書卷獎
 -  APCS 4/2
--  CPE (2024/3) 三題
--  CPE (2024/5) 三題
+-  CPE 三題
+-  CPE 三題
 -  NCPC 入選決賽/第二名
 -  AIS3
 -  大專生計畫
