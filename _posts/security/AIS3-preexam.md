@@ -2,7 +2,7 @@
 title: "[writeup] AIS3 2024 preexam"
 subtitle: "writeup"
 layout: post
-author: "Hsu"
+author: "Tai"
 published: true
 header-style: text
 tags:
