@@ -2,7 +2,7 @@
 title: "Snakify"
 subtitle: "All answers of Snakify"
 layout: post
-author: "Hsu"
+author: "Tai"
 published: true
 header-style: text
 tags:
